@@ -87,6 +87,6 @@ An advanced extension of the first project, incorporating **deeper statistical a
 
 ## 📬 Author  
 **Arjit Raghuvanshi**  
-B.Tech CSE | Data Science & Machine Learning Enthusiast  
+Data analytics, Data Science & Machine Learning Enthusiast  
 [GitHub Profile](https://github.com/arjitraghuvanshi)  
 
