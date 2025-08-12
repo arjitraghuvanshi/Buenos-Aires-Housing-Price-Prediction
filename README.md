@@ -1,60 +1,92 @@
-# Buenos Aires Housing Price Prediction  
+# Buenos Aires Housing Price Prediction Projects  
 
-## 📌 Project Summary  
-This project focuses on **predicting housing prices in Buenos Aires** using advanced **data analysis, visualization, and regression modeling techniques** in Python.  
-The aim is to explore **market trends**, analyze **price-driving factors**, and build models capable of estimating property values accurately.  
+This repository contains two end-to-end data science projects focusing on the prediction of housing prices in Buenos Aires. Both projects explore the market from different perspectives and levels of depth, incorporating **data analysis**, **visualization**, and **predictive modeling**.  
 
 ---
 
-## 📂 Repository Contents  
-- **Buenos Aires Housing Price Prediction.ipynb** – Jupyter Notebook containing the entire process from data preprocessing to model building and evaluation.  
+## 📌 Project 1 – Buenos Aires Housing Price Prediction  
 
----
+### 📄 Summary  
+A complete workflow from **data preprocessing** to **price prediction modeling**, designed to identify market trends and factors influencing property prices.  
 
-## 🎯 Objectives  
-- Analyze housing market data for Buenos Aires.  
-- Identify key factors influencing housing prices.  
+### 📂 Contents  
+- **Buenos Aires Housing Price Prediction.ipynb** – Main Jupyter Notebook containing all data preparation, exploratory analysis, visualization, and model building steps.  
+
+### 🎯 Objectives  
+- Explore the Buenos Aires housing market dataset.  
+- Identify key price-driving features such as location, size, and amenities.  
 - Build regression models to predict property prices.  
-- Visualize findings through clear and engaging charts.
+- Present findings through static and interactive visualizations.
   
----
-
-## 📄 View the Full Notebook  
+  ## 📄 View the Full Notebook  
 GitHub’s notebook viewer does not fully render all interactive visualizations (e.g., 3D models with Plotly).  
 To see the notebook with all outputs displayed properly, open it in nbviewer:  
 
 🔗 **[View on nbviewer](https://nbviewer.org/github/arjitraghuvanshi/Buenos-Aires-Housing-Price-Prediction/blob/main/Buenos-Aires-Housing-Price-Prediction%20%20%281%29.ipynb)**
 
----
+### 🛠 Tools & Technologies  
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn, Plotly  
+- Scikit-learn  
 
-## 🛠 Tools & Technologies  
-- **Python** – Core programming language  
-- **Pandas** – Data cleaning & manipulation  
-- **NumPy** – Numerical computations  
-- **Matplotlib & Seaborn** – Static visualizations  
-- **Plotly** – Interactive visualizations  
-- **Scikit-learn** – Regression modeling and evaluation  
+### 📊 Methodology  
+1. Data cleaning & preprocessing  
+2. Exploratory Data Analysis (EDA)  
+3. Data visualization (static + interactive)  
+4. Model development & evaluation  
+5. Insights generation  
 
----
-
-## 📊 Methodology  
-1. **Data Cleaning & Preprocessing** – Handling missing data, fixing inconsistencies, and preparing the dataset.  
-2. **Exploratory Data Analysis (EDA)** – Understanding trends, correlations, and market patterns.  
-3. **Visualization** – Generating both static and interactive plots for insights.  
-4. **Model Development** – Training and evaluating regression models to predict prices.  
-5. **Insight Generation** – Interpreting statistical and model-based findings.  
-
----
-
-## 📈 Key Insights & Findings  
-- **Neighborhood Impact** – Certain neighborhoods consistently have higher prices due to location and amenities.  
-- **Property Features** – Size, number of rooms, and proximity to the city center are major price determinants.  
-- **Market Trends** – Price distributions are skewed, with luxury properties forming the high-value segment.  
-- **Model Performance** – Regression models provide a strong predictive capability, with location features significantly improving accuracy.  
+### 📈 Key Insights  
+- **Neighborhood Impact:** Certain areas consistently show higher average prices.  
+- **Property Features:** Size and number of rooms strongly influence price.  
+- **Model Performance:** Regression models achieved good accuracy when location features were included.  
 
 ---
 
-## 🚀 How to View the Project  
-You can view the notebook directly on GitHub:  
-[**Open Notebook**](./Buenos%20Aires%20Housing%20Price%20Prediction.ipynb)  
+## 📌 Project 2 – Buenos Aires Housing Price Prediction: Advanced EDA & Modeling  
+
+### 📄 Summary  
+An advanced extension of the first project, incorporating **deeper statistical analysis**, **additional visualization techniques**, and an **interactive price estimator tool** (available when running the notebook locally).  
+
+### 📂 Contents  
+- **Buenos Aires Housing Price Prediction – Advanced EDA & Modeling.ipynb** – Extended notebook with richer data exploration, advanced model building, and an interactive property price estimator.  
+
+### 🎯 Objectives  
+- Perform deeper exploratory data analysis using advanced visualizations.  
+- Experiment with multiple regression techniques for improved predictions.  
+- Provide an **interactive tool** to estimate property prices based on user inputs (works locally in Jupyter).  
+
+### 🛠 Tools & Technologies  
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn, Plotly  
+- Scikit-learn  
+- ipywidgets (for interactivity)  
+
+### 📊 Methodology  
+1. Advanced data cleaning & feature engineering.  
+2. Detailed EDA with multi-variable visualizations.  
+3. Model comparison using multiple algorithms.  
+4. Development of an interactive widget-based price estimator.  
+
+### 📈 Key Insights  
+- **Location Variables:** Crucial in boosting prediction accuracy.  
+- **Feature Engineering:** Created new features to capture property characteristics more effectively.  
+- **Interactive Estimator:** Allows on-the-fly property price prediction when run in a Jupyter environment.  
+
+---
+
+## 🚀 Viewing the Notebooks  
+- On GitHub:  
+  - [**Project 1 Notebook**](./Buenos%20Aires%20Housing%20Price%20Prediction.ipynb)  
+  - [**Project 2 Notebook**](./Buenos%20Aires%20Housing%20Price%20Prediction%20–%20Advanced%20EDA%20&%20Modeling.ipynb)  
+- For full interactive functionality, download the notebook and run it locally in Jupyter Notebook or JupyterLab.  
+
+---
+
+## 📬 Author  
+**Arjit Raghuvanshi**  
+B.Tech CSE | Data Science & Machine Learning Enthusiast  
+[GitHub Profile](https://github.com/arjitraghuvanshi)  
 
