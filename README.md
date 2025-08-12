@@ -80,7 +80,7 @@ An advanced extension of the first project, incorporating **deeper statistical a
 ## 🚀 Viewing the Notebooks  
 - On GitHub:  
   - [**Project 1 Notebook**]([./Buenos%20Aires%20Housing%20Price%20Prediction.ipynb](https://github.com/arjitraghuvanshi/Buenos-Aires-Housing-Price-Prediction/blob/main/Buenos-Aires-Housing-Price-Prediction%20%20(1).ipynb))  
-  - [**Project 2 Notebook**]([./Buenos%20Aires%20Housing%20Price%20Prediction%20–%20Advanced%20EDA%20&%20Modeling.ipynb](https://github.com/arjitraghuvanshi/Buenos-Aires-Housing-Price-Prediction/blob/main/Buenos%20Aires%20Housing%20Price%20Prediction%20%E2%80%93%20Advanced%20EDA%20%26%20Modeling%20.ipynb))  
+  - [**Project 2 Notebook**](https://github.com/arjitraghuvanshi/Buenos-Aires-Housing-Price-Prediction/blob/main/Buenos%20Aires%20Housing%20Price%20Prediction%20%E2%80%93%20Advanced%20EDA%20%26%20Modeling%20.ipynb)  
 - For full interactive functionality, download the notebook and run it locally in Jupyter Notebook or JupyterLab.  
 
 ---
